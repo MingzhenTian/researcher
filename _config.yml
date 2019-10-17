@@ -18,7 +18,9 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
+ - name: "Contact"
+   link: "/contact/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "中文"
+   link: "/Chinese/"
