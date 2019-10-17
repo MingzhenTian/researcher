@@ -1,6 +1,6 @@
 title: Mingzhen Tian
 url: "https://mingzhentian.github.io/mingzhentian/"
-baseurl: "/researcher"
+baseurl: "/home"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+
+footer_text: "Page design by MingzhenTian"
 
 sass:
     style: compressed
