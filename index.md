@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="tmz (2).jpg">
 
 Hi! I am a second year student of Biomedicine Science at Shanghai Jiao Tong University, China.
 
