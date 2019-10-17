@@ -8,8 +8,7 @@ layout: default
 
 Hi! I am a second year student of Biomedicine Science at Shanghai Jiao Tong University, China.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
+This is a self-introduction of me.
 ## Research Interest
 bioinformatics、microbiology
 
