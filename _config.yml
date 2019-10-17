@@ -19,7 +19,7 @@ nav:
  - name: "About"
    link: "/researcher/"
  - name: "Contact"
-   link: "contact.md"
+   link: "Contact"
  - name: "Resume"
    link: "resume.pdf"
  - name: "中文"
