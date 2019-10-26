@@ -26,16 +26,16 @@ Year | Award | Issued by
 2019 | Third price in the first SJTU students life science innovation competition  | Innovation center of SJTU
 
 ## Portfolio
-*portfolio*
+**portfolio**
 
 portfolio2018-2019[watch]()
 
-*Graphic design*
-*Media production*
+**Graphic design**
+**Media production**
 
-1.Adventurous Experiences of Military Training[watch](https://www.bilibili.com/video/av66544969/)
+1.Adventurous Experiences of Military Training  [**watch**](https://www.bilibili.com/video/av66544969/)
 
-2.Entertain to Die - A research about mobile phone and cancer[watch](https://www.bilibili.com/video/av62421776/)
+2.Entertain to Die - A research about mobile phone and cancer  [**watch**](https://www.bilibili.com/video/av62421776/)
 
 ## Annotation
 
