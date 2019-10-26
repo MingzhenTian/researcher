@@ -3,7 +3,7 @@ url: "https://mingzhentian.github.io/researcher"
 baseurl: "/researcher/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./班徽（白底）.jpg"
 
 tracking_id: #
 
