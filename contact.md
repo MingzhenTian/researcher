@@ -21,5 +21,5 @@ is_contact: true
 ## Social
 
 1. Wechat: **AmazingMing5301**
-2. QQ:**1040898189**
+2. QQ：**1040898189**
 
