@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [1040898189@qq.com](mailto:1040898189@qq.com)
 
-* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 111 Zhenzhen Building, Shanghai Jiao Tong University, 800 Dongchuan Road
 >
-> London
+> Shanghai, 200240
 >
-> United Kingdom
+> P.R. China
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. Wechat: **AmazingMing5301**
+2. QQ:**1040898189**
+
