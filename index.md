@@ -26,15 +26,10 @@ Year | Award | Issued by
 2019 | The first SJTU students life science innovation competition  | Innovation center of SJTU
 
 
-# Here is a horizontal rule
+## Annotation
 
 ---
 
-Here is a blockquote
+> bar
 
-> To a great mind, nothing is little
-
-# References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* dot
