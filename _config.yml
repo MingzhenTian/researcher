@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 
-footer_text: "Page design by MingzhenTian"
+footer_text: "Page designed by MingzhenTian"
 
 sass:
     style: compressed
@@ -17,10 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/index"
+   link: "/cv/index"
  - name: "Contact"
-   link: "/contact"
+   link: "/cv/contact"
  - name: "Resume"
    link: "resume.pdf"
  - name: "中文"
-   link: "/chinese"
+   link: "/cv/chinese"
