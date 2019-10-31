@@ -3,7 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [1040898189@qq.com](mailto:1040898189@qq.com)
+## Email Address
+
+Email: [amazingming@sjtu.edu.cn](mailto:amazingming@sjtu.edu.cn)
 
 
 ---
