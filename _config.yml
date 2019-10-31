@@ -17,10 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "{{ https://mingzhentian.github.io/cv/ }}/index"
+   link: "/index"
  - name: "Contact"
-   link: "{{ https://mingzhentian.github.io/cv/ }}/contact"
+   link: "/contact"
  - name: "Resume"
    link: "resume.pdf"
  - name: "中文"
-   link: "{{ https://mingzhentian.github.io/cv/ }}/chinese"
+   link: "/chinese"
