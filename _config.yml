@@ -1,5 +1,5 @@
 title: Mingzhen Tian
-url: "https://mingzhentian.github.io/cv/"
+url: "https://http://mingzhentian.xyz/"
 
 
 markdown: kramdown
@@ -17,10 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/cv/index"
+   link: "/index"
  - name: "Contact"
-   link: "/cv/contact"
+   link: "/contact"
  - name: "Resume"
    link: "resume.pdf"
  - name: "中文"
-   link: "/cv/chinese"
+   link: "/chinese"
