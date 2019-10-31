@@ -1,6 +1,6 @@
 title: Mingzhen Tian
 url: "https://mingzhentian.github.io/"
-baseurl: "/researcher/"
+#baseurl: "/researcher/"
 
 markdown: kramdown
 #ins_logo: "./班徽（白底）.jpg"
