@@ -2,51 +2,44 @@
 layout: default
 ---
 
-## About Me
+## 个人介绍
 
 <img class="profile-picture" src="tmz (2).jpg">
 
-Hi! I am a second year student of **Biomedicine Science**, in **[Zhiyuan College](https://zhiyuan.sjtu.edu.cn/)** and **[College of Basic Medical Sciences](https://www.shsmu.edu.cn/cbms/)**, at **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)**, China.
+我是田明振，[**上海交通大学**](https://www.sjtu.edu.cn/) ，[**致远学院**](https://zhiyuan.sjtu.edu.cn/)，生物医学科学专业，同属于[**基础医学院**](https://www.shsmu.edu.cn/cbms/)
 
-I'm now the member of the Binbing Zhou's lab in Pediatric Translational Medicine Institute of [**SCMC**](https://www.scmc.com.cn/YYZY/portal/index/index.htm).
-This is a self-introduction of me.
+## 研究兴趣
+> 生物信息学、急性白血病复发
 
-## Research Interest
-> Bioinformatics、Acute lymphoblastic leukemia
+## 其他爱好
+> 平面设计、视频制作
 
-## Other Interest
-> Graphic design、Media production
-
-## Publications
+## 发表论文
 To be continued
 
-## Awards
+## 获奖
 
-Year | Award | Issued by
+年份 | 奖项 | 颁发单位
 -----|-------|--------
-2019 | Third price in the first SJTU students life science innovation competition  | Innovation center of SJTU
+2019 | 第一届生命科学创新大赛三等奖 | 上海交通大学创新中心
+2019 | 阳光领袖奖学金 | 上海交通大学致远学院
+2019 | 致远学院“致远荣誉奖学金” | 上海交通大学致远学院
+2019 | 上海交通大学本科生优秀奖学金（B等） | 上海交通大学 
+2018 | 致远学院“致远荣誉奖学金” | 上海交通大学致远学院
+## 作品
+**作品集**
 
-## Portfolio
-**collection**
+1.portfolio2018-2019  /[**观看**](https://www.bilibili.com/video/av68522730/)
 
-1.portfolio2018-2019  /[**watch**](https://www.bilibili.com/video/av68522730/)
-
-**Graphic design**
+**平面设计**
 
 go to my [**gallery**]()
 
-**Media production**
+**视频作品**
 
-1.Adventurous Experiences of Military Training  /[**watch**](https://www.bilibili.com/video/av66544969/)
+1.军训九九八十一  /[**观看**](https://www.bilibili.com/video/av66544969/)
 
-2.Entertain to Die - A research about mobile phone and cancer  /[**watch**](https://www.bilibili.com/video/av62421776/)
+2.Entertain to Die - A research about mobile phone and cancer  /[**观看**](https://www.bilibili.com/video/av62421776/)
 
-3.MG Animation - Keyboard Man Xiaoming's Patriotic Road  /[**watch**](https://www.bilibili.com/video/av73573548/)
+3.MG动画-键盘侠小明的爱国之路  /[**观看watch**](https://www.bilibili.com/video/av73573548/)
 
-## Annotation
-
----
-
-> bar
-
-* dot
