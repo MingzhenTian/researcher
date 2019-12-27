@@ -26,6 +26,7 @@ To be continued
 2019 | 致远学院“致远荣誉奖学金” | 上海交通大学致远学院
 2019 | 上海交通大学本科生优秀奖学金（B等） | 上海交通大学 
 2018 | 致远学院“致远荣誉奖学金” | 上海交通大学致远学院
+
 ## 作品
 **作品集**
 
@@ -41,5 +42,5 @@ go to my [**gallery**]()
 
 2.Entertain to Die - A research about mobile phone and cancer  /[**观看**](https://www.bilibili.com/video/av62421776/)
 
-3.MG动画-键盘侠小明的爱国之路  /[**观看watch**](https://www.bilibili.com/video/av73573548/)
+3.MG动画-键盘侠小明的爱国之路  /[**观看**](https://www.bilibili.com/video/av73573548/)
 
