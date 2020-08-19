@@ -13,7 +13,9 @@ This is a self-introduction of me.
 
 ## Research Interest
 > Bioinformatics、Mechanism of drug resistance and relapse in leukemia
+
 ## Research Experiences
+
 Lab | Mentor | Time
 -----|-------|--------
 State Key Laboratory of Microbial Metabolism, SJTU | Undergraduate Researcher, advised by Prof. [Wei Ma](http://mml.sjtu.edu.cn/Data/View/312?showtype=view) | July 2019 - September 2020
@@ -26,7 +28,9 @@ Pediatric Translational Medicine Institute, Shanghai Children's Medical Center, 
 To be continued
 
 ## Honors and Awards
+
 **Awards**
+
 Year | Award | Issued by
 -----|-------|--------
 2019 | Third price in the first SJTU students life science innovation competition  | Innovation center of SJTU
@@ -34,12 +38,14 @@ Year | Award | Issued by
 2020 |The third SJTU Network Culture Festival Popularity Award/Excellent Works Award (Animation) | Party Committee of SJTU
 
 **Scholarships**
+
 Year | Scholarships | Issued by
 -----|-------|--------
 2018 | Zhiyuan Honorary Scholarship  | Shanghai Jiao Tong University Zhiyuan college
 2019 | Zhiyuan Honorary Scholarship  | Shanghai Jiao Tong University Zhiyuan college
 2019 |Outstanding Undergraduate Scholarship of Shanghai Jiao Tong University (B) | Shanghai Jiao Tong University
 2019 | Sunshine Leader Scholarship of Zhiyuan College (second prize) | Shanghai Jiao Tong University Zhiyuan college
+
 ## Portfolio
 **Collection**
 
