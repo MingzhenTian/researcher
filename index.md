@@ -30,6 +30,7 @@ Year | Award | Issued by
 2019 | Third price in the first SJTU students life science innovation competition  | Innovation center of SJTU
 2020 | The 36th PRP Excellent Project of Shanghai Jiao Tong University  | SJTU Academic Affairs Office
 2020 |The third SJTU Network Culture Festival Popularity Award/Excellent Works Award (Animation) | Party Committee of SJTU
+
 **Scholarships**
 Year | Award | Issued by
 -----|-------|--------
