@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="tmz (2).jpg">
+<img class="profile-picture" src="tmz.jpg">
 
 Hi! I am a second year student of **Biomedicine Science**, in **[Zhiyuan College](https://zhiyuan.sjtu.edu.cn/)** and **[College of Basic Medical Sciences](https://www.shsmu.edu.cn/cbms/)**, at **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)**, China.
 
@@ -34,14 +34,14 @@ Year | Award | Issued by
 2020 |The third SJTU Network Culture Festival Popularity Award/Excellent Works Award (Animation) | Party Committee of SJTU
 
 **Scholarships**
-Year | Award | Issued by
+Year | Scholarships | Issued by
 -----|-------|--------
 2018 | Zhiyuan Honorary Scholarship  | Shanghai Jiao Tong University Zhiyuan college
 2019 | Zhiyuan Honorary Scholarship  | Shanghai Jiao Tong University Zhiyuan college
 2019 |Outstanding Undergraduate Scholarship of Shanghai Jiao Tong University (B) | Shanghai Jiao Tong University
 2019 | Sunshine Leader Scholarship of Zhiyuan College (second prize) | Shanghai Jiao Tong University Zhiyuan college
 ## Portfolio
-**collection**
+**Collection**
 
 1.portfolio2018-2019  /[**watch**](https://www.bilibili.com/video/av68522730/)
 
