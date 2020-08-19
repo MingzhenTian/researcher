@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="微信图片_20200819094938.jpg">
+<img class="profile-picture" src="QQ截图20200819095417.png">
 
 Hi! I am a second year student of **Biomedicine Science**, in **[Zhiyuan College](https://zhiyuan.sjtu.edu.cn/)** and **[College of Basic Medical Sciences](https://www.shsmu.edu.cn/cbms/)**, at **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)**, China.
 
