@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photo.jpg">
+<img class="profile-picture" src="photo2.jpg">
 
 I am a first year PhD student in Biomedical Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Guangzhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) in the [Institute of Medical Robotics](https://imr.sjtu.edu.cn/).
 
