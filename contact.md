@@ -12,7 +12,7 @@ Email: [amazingming@sjtu.edu.cn](mailto:amazingming@sjtu.edu.cn)
 
 ## Mailing Address
 
-> 111 Zhenzhen Building, Shanghai Jiao Tong University, 800 Dongchuan Road
+> Tang Zhongying building, Shanghai Jiao Tong University, 800 Dongchuan Road
 >
 > Shanghai, 200240
 >
@@ -20,8 +20,8 @@ Email: [amazingming@sjtu.edu.cn](mailto:amazingming@sjtu.edu.cn)
 
 ---
 
-## Social
+## Social Media
 
-1. Wechat: **AmazingMing5301**
+1. Wechat: **tmz_sjtu**
 2. QQ：**1040898189**
 
