@@ -20,7 +20,7 @@ Pediatric Translational Medicine Institute, Shanghai Children's Medical Center, 
 Institute of Medical Robotics, SJTU | PhD, advised by Prof. [Guangzhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) | September 2022 -
 
 ## Publications
-Mingzhen Tian, Zhuo-Chen Ma*, Qingqing Han, Qian Suo, Zhijun Zhang, Bing Han*. (2022). Emerging Applications of Femtosecond Laser Fabrication in Neurobiological Research. _Frontiers in Chemistry_. (Under reviewing)
+Mingzhen Tian, Zhuo-Chen Ma, Qingqing Han, Qian Suo, Zhijun Zhang, Bing Han. (2022). Emerging Applications of Femtosecond Laser Fabrication in Neurobiological Research. _Frontiers in Chemistry_. (Under reviewing)
 
 ## Honors and Awards
 
