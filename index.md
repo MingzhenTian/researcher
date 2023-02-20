@@ -20,7 +20,7 @@ Pediatric Translational Medicine Institute, Shanghai Children's Medical Center, 
 Institute of Medical Robotics, SJTU | PhD, advised by Prof. [Guangzhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) | September 2022 -
 
 ## Publications
-1. **Tian, M.**, Ma, Z.-C., Han, Q., Suo, Q., Zhang, Z., & Han, B. (2022). Emerging applications of femtosecond laser fabrication in neurobiological research. _Frontiers in Chemistry_, 10. [https://www.frontiersin.org/articles/10.3389/fchem.2022.1051061]
+1. **Tian, M.**, Ma, Z.-C., Han, Q., Suo, Q., Zhang, Z., & Han, B. (2022). Emerging applications of femtosecond laser fabrication in neurobiological research. _Frontiers in Chemistry_, 10. [https://www.frontiersin.org/articles/10.3389/fchem.2022.1051061](https://www.frontiersin.org/articles/10.3389/fchem.2022.1051061)
 
 ## Honors and Awards
 
