@@ -21,6 +21,6 @@ nav:
  - name: "Contact"
    link: "/contact"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "resume.pdf" 
  - name: "中文"
    link: "/chinese"
