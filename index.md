@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="photo2.jpg">
 
-I am a first year PhD student in Biomedical Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Guangzhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) in the [Institute of Medical Robotics](https://imr.sjtu.edu.cn/).
+I am a PhD student in Biomedical Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Guangzhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) in the [Institute of Medical Robotics](https://imr.sjtu.edu.cn/). Before joining IMR, I obtained a bachelor’s degree from the Biomedicine Science of **Zhiyuan Honors Program**, Shanghai Jiao Tong University.
 
 ## Research Interest
-> Micro/Nano robotics fabrication, Brain drug delivery, Two-photon polymerization fabrication.
+> Micro/Nano robotics fabrication, Brain drug delivery.
 
 ## Research Experiences
 
