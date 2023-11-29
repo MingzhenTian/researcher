@@ -20,8 +20,8 @@ Pediatric Translational Medicine Institute, Shanghai Children's Medical Center, 
 Institute of Medical Robotics, SJTU | PhD, advised by Prof. [Guangzhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) | September 2022 - | Micro/Nano robotics, Brain drug delivery, Microfluidics
 
 ## Publications
-1. **Mingzhen Tian**, Zhuo-Chen Ma, Qingqing Han, Qian Suo, Zhijun Zhang and Bing Han (2022). Emerging applications of femtosecond laser fabrication in neurobiological research. _Frontiers in Chemistry_. 10:1051061. [doi: 10.3389/fchem.2022.1051061](https://www.frontiersin.org/articles/10.3389/fchem.2022.1051061)
-2. **Mingzhen Tian**, Zhichao Ma, Guang-Zhong Yang (2023). Micro/nano systems for controllable drug delivery to the brain. _Submitted to The Innovation_.
+1. **Mingzhen Tian**, Zhuo-Chen Ma, Qingqing Han, Qian Suo, Zhijun Zhang and Bing Han (2022). Emerging applications of femtosecond laser fabrication in neurobiological research. _Frontiers in Chemistry_. [doi: 10.3389/fchem.2022.1051061](https://www.frontiersin.org/articles/10.3389/fchem.2022.1051061)
+2. **Mingzhen Tian**, Zhichao Ma, Guang-Zhong Yang (2023). Micro/nano systems for controllable drug delivery to the brain. _The Innovation_. [https://doi.org/10.1016/j.xinn.2023.100548](https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00176-5)
 
 ## Conference
 1. **Mingzhen Tian**, Bo Cao, Shanghao Zhang, Wei Ma (2021). Rapid Detection of Pathogenic Bacteria Based on Whole Genome Sequence. _International Undergraduate Medical Research Conference 2021_. Online. (Outstanding Research Award & Best Poster Presentation Award)
