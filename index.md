@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="aiphoto.png">
+<img class="profile-picture" src="aiphoto2.png">
 
 I am a PhD student in Biomedical Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Guangzhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) in the [Institute of Medical Robotics](https://imr.sjtu.edu.cn/). Before joining IMR, I obtained a bachelor’s degree from the Biomedicine Science of [Zhiyuan Honors Program](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/index.php), Shanghai Jiao Tong University. 
 
