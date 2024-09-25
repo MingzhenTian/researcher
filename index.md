@@ -22,10 +22,12 @@ Institute of Medical Robotics, SJTU | PhD, advised by Prof. [Guangzhong Yang](ht
 ## Publications
 1. **Mingzhen Tian**, Zhuo-Chen Ma, Qingqing Han, Qian Suo, Zhijun Zhang, Bing Han (2022). Emerging applications of femtosecond laser fabrication in neurobiological research. _Frontiers in Chemistry_. [https://doi.org/10.3389/fchem.2022.1051061](https://www.frontiersin.org/articles/10.3389/fchem.2022.1051061)
 2. **Mingzhen Tian**, Zhichao Ma, Guang-Zhong Yang (2023). Micro/nano systems for controllable drug delivery to the brain. _The Innovation_. [https://doi.org/10.1016/j.xinn.2023.100548](https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00176-5)
-3. Ahmed Elnaggar, Seungyeop Kang, Mingzhen Tian, Bing Han, Meysam Keshavarz (2024). State of the Art in Actuation of Micro/Nanorobots for Biomedical Applications. _Small Science_. [https://doi.org/10.1002/smsc.202300211](https://doi.org/10.1002/smsc.202300211) (**Cover Picture**)
+3. Ahmed Elnaggar, Seungyeop Kang, **Mingzhen Tian**, Bing Han, Meysam Keshavarz (2024). State of the Art in Actuation of Micro/Nanorobots for Biomedical Applications. _Small Science_. [https://doi.org/10.1002/smsc.202300211](https://doi.org/10.1002/smsc.202300211) (**Cover Picture**)
+4. **Mingzhen Tian**†, Meysam Keshavarz†, Ali Anil Demircali, Bing Han, Guang-Zhong Yang (2024). Microrobotic Delivery and Localization of Enzyme-Responsive Hydrogel-Immobilized Therapeutics to Suppress Triple-Negative Breast Cancer. _In Submission_
 
 ## Conference
 1. **Mingzhen Tian**, Bo Cao, Shanghao Zhang, Wei Ma (2021). Rapid Detection of Pathogenic Bacteria Based on Whole Genome Sequence. _International Undergraduate Medical Research Conference 2021_. Online. (Outstanding Research Award & Best Poster Presentation Award)
+
 
 ## Honors and Awards
 
